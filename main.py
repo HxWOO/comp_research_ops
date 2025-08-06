@@ -91,7 +91,7 @@ if __name__ == "__main__":
     target_company = companies[current_rank]
     print(f"--- Starting analysis for Rank {current_rank + 1}: {target_company} ---")
 
-    job_titles = ["백엔드 개발자", "IT 서비스 기획자", "AI 엔지니어"]
+    job_titles = ["백엔드 개발자", "인프라 엔지니어", "AI 엔지니어"]
     analysis_topics = [
         "기업의 기술적 Legacy 분석", "현재의 주력 사업 및 기술 스택 분석",
         "최근 집중하고 있는 신규 IT 사업 및 투자 분야", "Legacy와 현재, 그리고 미래로의 기회",

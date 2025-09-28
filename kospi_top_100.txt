@@ -62,13 +62,13 @@ HD현대마린솔루션
 KODEX CD금리액티브(합성)
 포스코인터내셔널
 한미반도체
+KODEX 200
 에이피알
 대한항공
-KODEX 200
 LS ELECTRIC
-KODEX 머니마켓액티브
 SK바이오팜
 한국금융지주
+KODEX 머니마켓액티브
 HD현대미포
 코웨이
 카카오페이
@@ -94,7 +94,7 @@ KODEX 미국S&P500
 CJ
 두산밥캣
 LS
-TIGER CD금리투자KIS(합성)
 한화솔루션
+TIGER CD금리투자KIS(합성)
 한미약품
 엔씨소프트

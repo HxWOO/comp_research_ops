@@ -56,17 +56,17 @@ LS ELECTRIC
 HD현대마린솔루션
 LIG넥스원
 TIGER 미국S&P500
-KODEX 200
 한화시스템
 포스코인터내셔널
+KODEX 200
 한국항공우주
 삼양식품
 한국금융지주
 HD현대미포
 DB손해보험
 유한양행
-KODEX 머니마켓액티브
 에이피알
+KODEX 머니마켓액티브
 KODEX CD금리액티브(합성)
 S-Oil
 SK바이오팜
